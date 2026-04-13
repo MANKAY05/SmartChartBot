@@ -33,7 +33,7 @@ public class Chatbot
             Console.WriteLine("Bot: " + response);
              
             if (input.ToLower() == "exit")
-                break;
+                break; 
         }
     }
 

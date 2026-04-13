@@ -10,6 +10,6 @@ public class Validator
             input = Console.ReadLine();   
         }
 
-        return input;
+        return input; 
     }
 }

@@ -86,7 +86,7 @@ public class ResponseHandler
     {
         input = input.ToLower();
 
-        foreach (var key in responses.Keys) 
+        foreach (var key in responses.Keys)  
         {
             if (input.Contains(key))
             {
