@@ -31,7 +31,7 @@ public class Chatbot
 
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Bot: " + response);
-
+             
             if (input.ToLower() == "exit")
                 break;
         }

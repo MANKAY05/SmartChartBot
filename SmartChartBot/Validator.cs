@@ -7,7 +7,7 @@ public class Validator
         while (string.IsNullOrWhiteSpace(input))
         {
             Console.Write("⚠ Input cannot be empty. Try again: ");
-            input = Console.ReadLine();  
+            input = Console.ReadLine();   
         }
 
         return input;

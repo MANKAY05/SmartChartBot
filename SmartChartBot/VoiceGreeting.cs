@@ -12,7 +12,7 @@ public class VoiceGreeting
         }
         catch
         {
-            Console.WriteLine("Voice greeting could not be played.");  
+            Console.WriteLine("Voice greeting could not be played.");   
         }
     }
 }

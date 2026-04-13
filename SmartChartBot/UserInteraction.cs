@@ -9,6 +9,6 @@ public class UserInteraction
             Console.Write(c);
             System.Threading.Thread.Sleep(20);   
         }
-        Console.WriteLine(); 
+        Console.WriteLine();  
     }
 }
