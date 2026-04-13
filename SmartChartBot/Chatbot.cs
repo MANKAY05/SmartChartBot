@@ -14,7 +14,7 @@ public class Chatbot
         Console.Write("Enter your name: ");
         clientName = Console.ReadLine();
 
-        clientName = Validator.ValidateInput(clientName);
+        clientName = Validator.ValidateInput(clientName); 
 
         Console.WriteLine($"\nHello {clientName}! How can I help you today?\n");
 
