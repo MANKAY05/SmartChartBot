@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
         // Play voice greeting
-        VoiceGreeting.PlayGreeting();   
+        VoiceGreeting.PlayGreeting();    
 
         // Display ASCII Logo
         Chatbot.DisplayLogo();
