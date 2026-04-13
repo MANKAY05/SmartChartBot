@@ -43,7 +43,7 @@ public class ResponseHandler
         {"2fa", "Enable two-factor authentication for extra security."},
         {"multi factor", "MFA adds another layer of protection."},
         {"authentication", "Always verify login attempts."},
-        {"login alert", "Turn on login alerts for suspicious activity."},
+        {"login alert", "Turn on login alerts for suspicious activity."},  
         {"security code", "Never share your verification codes."},
 
         //  SOCIAL MEDIA SAFETY
