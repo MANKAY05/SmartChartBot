@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartChartBot", "SmartChartBot\SmartChartBot.csproj", "{0AC0B747-C6EA-4B1B-BB9C-C7A126A81CFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AC0B747-C6EA-4B1B-BB9C-C7A126A81CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC0B747-C6EA-4B1B-BB9C-C7A126A81CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC0B747-C6EA-4B1B-BB9C-C7A126A81CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC0B747-C6EA-4B1B-BB9C-C7A126A81CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30FCF156-7BBF-412F-911F-4D703265B193}
+	EndGlobalSection
+EndGlobal
